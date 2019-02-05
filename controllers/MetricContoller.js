@@ -39,7 +39,7 @@ module.exports = {
                 metric_id: metric.id
             },
             order: [
-                ['createdAt', 'desc']
+                ['date', 'desc']
             ]
         });
 
